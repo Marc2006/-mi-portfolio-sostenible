@@ -16,10 +16,10 @@
 
 ## Primeros comandos aprendidos
 
--git init
--git add .
--git commit -m "Primer commit"
--git push origin main
+- git init
+- git add .
+- git commit -m "Primer commit"
+- git push origin main
 
 ## Licencia
 Este proyecto se publica bajo licencia MIT.
