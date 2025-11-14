@@ -9,7 +9,17 @@
 ## Mi compromiso con la sostenibilidad digital
 - Uso de codigo abierto
 
+## Tecnologías que me interesan
+- Java
+- Python
+- Git y GitHub
 
+## Primeros comandos aprendidos
+
+- git init
+- git add .
+- git commit -m "Primer commit"
+- git push origin main
 
 ## Licencia
 Este proyecto se publica bajo licencia MIT.
