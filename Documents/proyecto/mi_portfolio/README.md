@@ -6,6 +6,10 @@
 ## Mis objetivos este curso
 - Aprender lo maximo posible y aprender a como programar mejor
 
+## Mi compromiso con la sostenibilidad digital
+- Uso de codigo abierto
+
+
 
 ## Licencia
 Este proyecto se publica bajo licencia MIT.
